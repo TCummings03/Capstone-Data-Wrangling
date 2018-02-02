@@ -28,5 +28,5 @@ The main issues concerning missing values had to do with the amenities column an
 5. Take the obersvations where sqft = NaN and predict NaN values with linear model
 6. Add these predictions to the original data frame (fill in missing sqft values)
 
-After I had removed outliers, checked for duplicates, imputied missing values, and created all dummy variables, my data frame was ready for a machine learning model. Through this process, I was able to get hands on experience with messy data from the web and turn it into a manageable dataframe that was accessible. 
+After I had removed outliers, checked for duplicates, imputed missing values, and created all dummy variables, my data frame was ready for a machine learning model. Through this process, I was able to get hands on experience with messy data from the web and turn it into a manageable dataframe that was accessible. 
     
